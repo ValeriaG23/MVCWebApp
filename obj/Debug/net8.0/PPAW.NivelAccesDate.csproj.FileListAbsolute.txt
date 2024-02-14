@@ -1,0 +1,15 @@
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\bin\Debug\net8.0\PPAW.NivelAccesDate.deps.json
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\bin\Debug\net8.0\PPAW.NivelAccesDate.runtimeconfig.json
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\bin\Debug\net8.0\PPAW.NivelAccesDate.dll
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\bin\Debug\net8.0\PPAW.NivelAccesDate.pdb
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.AssemblyInfo.cs
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.sourcelink.json
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.dll
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\refint\PPAW.NivelAccesDate.dll
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.pdb
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\PPAW.NivelAccesDate.genruntimeconfig.cache
+C:\Users\Pc\source\repos\MVCWebAPP_GurandaV\PPAW.NivelAccesDate\obj\Debug\net8.0\ref\PPAW.NivelAccesDate.dll
